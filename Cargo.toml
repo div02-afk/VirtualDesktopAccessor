@@ -21,7 +21,7 @@ windows = { version = "0.60", features = [
 ] }
 windows-core = { version = "0.60" }
 windows-interface = { version = "0.58" }
-windows-implement = { version = "0.58" }
+windows-implement = { version = "0.60" }
 crossbeam-channel = { version = "0.5.14", optional = true }
 winit = { version = "0.30.5", optional = true }
 macro_rules_attribute = "0.2"
